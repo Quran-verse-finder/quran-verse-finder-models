@@ -8,9 +8,10 @@ Released here so the app can fetch them without authentication.
 
 ## Privacy policy
 
-The app's privacy policy is published from this repository's `docs/` folder,
-because the app's own source repository is private and GitHub Pages does not
-serve one on a free plan. It is the only public repository the project has.
+The policy used to be served from this repository, back when it was the only
+public one the project had. It now lives with the site, in
+[`quran-verse-finder.github.io`](https://github.com/Quran-verse-finder/quran-verse-finder.github.io),
+so that a single copy exists and the address reads as the project rather than
+as a path inside the repository that happens to hold the model.
 
-- Source: [`docs/privacy.html`](docs/privacy.html)
-- Published: https://quran-verse-finder.github.io/quran-verse-finder-models/privacy.html
+- <https://quran-verse-finder.github.io/privacy.html>
