@@ -13,4 +13,4 @@ because the app's own source repository is private and GitHub Pages does not
 serve one on a free plan. It is the only public repository the project has.
 
 - Source: [`docs/privacy.html`](docs/privacy.html)
-- Published: https://safwanyousaf00.github.io/quran-verse-finder-models/privacy.html
+- Published: https://quran-verse-finder.github.io/quran-verse-finder-models/privacy.html
